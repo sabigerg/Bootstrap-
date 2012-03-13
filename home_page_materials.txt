@@ -1,0 +1,64 @@
+===================================
+LINKS FOR THE MAIN NAV BAR:
+-----------------------------------
+<ul class="nav">
+  <li class="active"><a href="home.html">Home</a></li>
+	<li><a href="theaters.html">In Theaters</a></li>
+  <li><a href="report.html">Report a Movie</a></li>
+</ul>
+
+
+===================================
+SOME CONTENT FOR THE MAIN COLUMN:
+-----------------------------------
+<br />
+<h2>Welcome to Black &amp; Gold Movie Reviews</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+	<br />
+	<!-- display the trailer for Dark Knight Rises -->
+	<h3>Spotlight: The Dark Knight Rises</h3>
+	<iframe width="480" height="360" src="http://www.youtube.com/embed/7gFwvozMHR4" frameborder="0" allowfullscreen></iframe>
+</p>
+
+
+===================================
+SOME CONTENT FOR THE SIDE BUCKET:
+-----------------------------------
+<h2>Filmed in the 'Burgh</h2>
+<p>Many people don't realize how realize how popular Pittsburgh is as a filming location. Below are just a few of the movies in the last decade that were filmed in Pittsburgh:</p>
+<ul>
+	<li><a href="#">Dark Knight Rises</a>&nbsp;</li>
+	<li><a href="#">Love and Other Drugs</a></li>
+	<li><a href="#">I Am Number Four</a></li>
+	<li><a href="#">Unstoppable</a></li>
+	<li><a href="#">Abduction</a></li>
+	<li><a href="#">Smart People</a></li>
+	<li><a href="#">Wonder Boys</a></li>
+	<li><a href="#">Flashdance</a></li>
+	<li><a href="#">Dawn of the Dead</a></li>
+	<li><a href="#">The Mothman Prophecies</a></li>
+	<li><a href="#">The Mysteries of Pittsburgh</a></li>
+</ul>
+
+
+===================================
+SOME CONTENT FOR THE FOOTER:
+-----------------------------------
+<p>
+	<a href="#">Home</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+	<a href="#">About Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+	<a href="#">Contact Us</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+	<a href="#">Back to top</a>
+</p>
+<div id="copyright">
+	<br />Webmaster: <script type="text/javascript">
+	<!--
+		// protected email script by Joe Maller. JavaScripts available at http://www.joemaller.com
+		// this script is free to use and distribute but please credit me and/or link to my site
+		emailE=('YOUR_ANDREW_ID_HERE' + '@andrew.cmu.edu')
+		document.write('<a href="mailto:' + emailE + '">' + 'YOUR NAME HERE' + '</a>')
+	//-->
+	</script>&nbsp;&nbsp;Copyright 2012 <a href="#">Tick Productions</a>
+	<br /><br />
+</div>
